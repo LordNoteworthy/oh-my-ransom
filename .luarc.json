@@ -1,0 +1,12 @@
+{
+    "runtime.version": "Lua 5.4",
+    "diagnostics": {
+        "ignoredFiles": "Disable" // Ignored files are fully ignored
+    },
+    "workspace": {
+        "ignoreDir": [
+            "build/"
+        ],
+        "checkThirdParty": false
+    }
+}
